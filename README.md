@@ -1,3 +1,4 @@
+![Ritin Tiwari](https://github.com/user-attachments/assets/0efb3393-269f-436b-8d73-40dd95118b49)
 <h1>Hi 👋! My name is Ritin Tiwari.</h1>
 <p>I am a passionate web developer from Jabalpur. I completed my B.Tech in Computer Science in 2023 from Shri Ram Institute of Science and Technology.</p>
 <h2>🚀 Languages and Tools I Use</h2>
