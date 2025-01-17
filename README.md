@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritinportfolio.netlify.app](https://ritinportfolio.netlify.app)
 - ✉️  You can contact me at **mailritintiwari@gmail.com**
-- 
+
 ## 🛠 Skills & Expertise:  
 - **Web Designing**: Crafting intuitive and user-friendly designs.  
 - **CMS**: WordPress, WooCommerce, and WooCommerce Customization.  
