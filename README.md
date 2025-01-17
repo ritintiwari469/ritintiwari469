@@ -1,10 +1,26 @@
 ![Ritin Tiwari](https://github.com/user-attachments/assets/0efb3393-269f-436b-8d73-40dd95118b49)
-<h1>Hi 👋! My name is Ritin Tiwari.</h1>
-<p>I am a passionate Web Developer from Jabalpur. I completed my B.Tech in Computer Science in 2023 from Shri Ram Institute of Science and Technology.</p>
+<h1>👋 Hi, I'm Ritin Tiwari</h1>
+<h1>🚀 Web Developer | WordPress Developer | Full-Stack Enthusiast</h1>
+<p>I'm a passionate web developer from Jabalpur with approximately 1 year of professional experience. I specialize in creating stunning and functional websites, from custom theme development to seamless e-commerce experiences.</p>
 
 - 👨‍💻 All of my projects are available at [https://ritinportfolio.netlify.app](https://ritinportfolio.netlify.app)
 - ✉️  You can contact me at **mailritintiwari@gmail.com**
+- 
+## 🛠 Skills & Expertise:  
+- **Web Designing**: Crafting intuitive and user-friendly designs.  
+- **CMS**: WordPress, WooCommerce, and WooCommerce Customization.  
+- **Front-End Development**: JavaScript, React, TailwindCSS, ShadCN, Bootstrap.  
+- **Back-End Development**: PHP, Python (FastAPI), Node.js, Express.js.  
+- **Databases**: MongoDB, SQL, and phpMyAdmin.  
+- **Version Control**: Git and GitHub.  
+- **Custom Theme Development**: Building tailored solutions to meet unique needs. 
 
+🎓 **Educational Background**:  
+Graduated as an engineer from **Shri Ram Institute of Science and Technology** in **2023**.
+ 
+🌟 **Let's Connect!**  
+Feel free to check out my projects and collaborations here on GitHub. Let’s create something amazing together!
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritin-tiwari-4b5650206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritin-tiwari-4b5650206" height="30" width="40" /></a>
